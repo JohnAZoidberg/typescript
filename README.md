@@ -1,4 +1,4 @@
-# TypeScript Presentation Exervise
+# TypeScript Presentation Exercise
 
 ## Setup Instructions
 
